@@ -10,7 +10,7 @@
 
 #### 💳 DonasiSkuy (Donation Platform)
 Platform donasi digital yang berfokus pada efisiensi transaksi via QRIS.
-* **Key Achievements:** Mengembangkan sistem *payout* otomatis dengan jadwal H+1.
+* **Key Achievements:** Mengembangkan sistem *payout* otomatis dengan jadwal H+3.
 * **Scope:** Financial integration, transaction security, and automated settlement.
 * **Tech:** Next.js, Node.js, Prisma, MySQL.
 
