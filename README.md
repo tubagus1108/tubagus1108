@@ -20,7 +20,7 @@ Sistem backend untuk program loyalti skala besar dengan jutaan pengguna aktif.
 * **Performance:** Implementasi **Redis Cluster** untuk menjamin *high-availability* data.
 * **Tech:** NestJS, Kafka, Redis Cluster, MongoDB.
 
-#### 📱 GoodPay PPOB Platform (Payment Gateway)
+#### 📱 GoodPay PPOB Platform (Payment Point Online Bank)
 Platform pembayaran terintegrasi untuk berbagai layanan digital seperti pulsa dan listrik.
 * **Complexity:** Integrasi multi-provider dengan manajemen saldo *real-time*.
 * **Approach:** Mobile-first development untuk memastikan aksesibilitas pengguna yang luas.
